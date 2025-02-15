@@ -145,7 +145,7 @@
 		<Metadata name="Catalog.ВерсииПроекта.Help" id="4ec3a695-c752-4559-9516-353c4af2b9e8.1" configVersion="641caeb0e26434479646db7a5bea46c400000000"/>
 		<Metadata name="Catalog.ВерсииПроекта.ManagerModule" id="4ec3a695-c752-4559-9516-353c4af2b9e8.3" configVersion="492045ab4d4841498ab738f86b7d7dd900000000"/>
 		<Metadata name="Catalog.ВерсииПроекта.ObjectModule" id="4ec3a695-c752-4559-9516-353c4af2b9e8.0" configVersion="6eeee7deb6e5924989d562edf629007400000000"/>
-		<Metadata name="Catalog.ВерсииРасширений" id="4bb0f7c3-62f3-4352-9bc8-e243dd18fe4a" configVersion="54c5395148290042bb84ead3ac93723300000000">
+		<Metadata name="Catalog.ВерсииРасширений" id="4bb0f7c3-62f3-4352-9bc8-e243dd18fe4a" configVersion="5b503e8b803ae4459d7af14abd3c50da00000000">
 			<Metadata name="Catalog.ВерсииРасширений.Attribute.ДатаПоследнегоИспользования" id="73d8b319-9bea-4638-a602-23c12f37c227"/>
 			<Metadata name="Catalog.ВерсииРасширений.Attribute.ОписаниеМетаданных" id="bc106ef9-3eeb-40d4-aa59-ae1855ba1744"/>
 		</Metadata>
